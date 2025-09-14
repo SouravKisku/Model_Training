@@ -3,7 +3,6 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 import json
 
-# ✅ Same IMG_SIZE as training
 IMG_SIZE = (224, 224)
 
 # Load model
